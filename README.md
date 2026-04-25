@@ -107,4 +107,7 @@ The dataset used in this project is included in the `data/` folder.
 
 ## 📬 Contact
 
-Feel free to connect for feedback or collaboration.
+If you'd like to connect or discuss this project:
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/aditya-verma-aa8178288/  
+- 📧 Email: adityaverma5069@gmail.com  
