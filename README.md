@@ -38,32 +38,22 @@ This project delivers an end-to-end analytical view of a hospital system. It com
 ## 🖼️ Dashboard Screens
 
 ### 🏠 Home
-![Home](images/home.jpg)
-
----
+![Home](Images/Home.jpg)
 
 ### 📊 Overview
-![Overview](images/overview.jpg)
-
----
+![Overview](Images/Overview.jpg)
 
 ### 👤 Patient
-![Patient](images/patient.jpg)
-
----
+![Patient](Images/Patient.jpg)
 
 ### 👨‍⚕️ Doctor
-![Doctor](images/doctor.jpg)
-
----
+![Doctor](Images/Doctor.jpg)
 
 ### 🏥 Hospital
-![Hospital](images/hospital.jpg)
-
----
+![Hospital](Images/Hospital.jpg)
 
 ### 💰 Finance
-![Finance](images/finance.jpg)
+![Finance](Images/Finance.jpg)
 
 ---
 
