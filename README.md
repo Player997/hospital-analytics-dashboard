@@ -89,9 +89,11 @@ The dataset used in this project is included in the `data/` folder.
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Dashboard Demo
 
-*(Will be added soon)*
+Watch a quick walkthrough of the Hospital Analytics Dashboard showcasing key features and interactions:
+
+[![Watch Demo](images/overview.png)](https://drive.google.com/file/d/1_onnOrmLQqnHlwyEUr-kbSYOA74IcRqP/view?usp=sharing)
 
 ---
 
